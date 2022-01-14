@@ -29,5 +29,5 @@ Users can add items by simply typing in their item and clicking on 'add':
 ![CaptureToDoList](https://user-images.githubusercontent.com/90770698/149536298-0a709c36-77c5-4ff0-8c83-905fc8085896.JPG)
 
 ## Credits
--created following completion of my full stack web development bootcamp course with Hyperionde Software Institute
+-created following completion of my full stack web development bootcamp course with Hyperiondev Software Institute
 -by Ashleigh Williams
