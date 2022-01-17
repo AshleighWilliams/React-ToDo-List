@@ -1,6 +1,6 @@
 # React-ToDo-List
-This simple to-do list was created with REACT. 
-View: https://todolist-app-withreact.herokuapp.com/
+-This simple to-do list was created with REACT. 
+-View: https://todolist-app-withreact.herokuapp.com/
 
 <!--Table of Contents-->
 <details open= "open">
